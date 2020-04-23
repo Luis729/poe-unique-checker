@@ -1,0 +1,29 @@
+{
+  "name": "poe-unique-checker",
+  "version": "0.1.0",
+  "description": "Checks the value of a unique and compares it to the one in your stash tab",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luis729/poe-unique-checker.git"
+  },
+  "author": "Paul Matthew Barrameda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Luis729/poe-unique-checker/issues"
+  },
+  "homepage": "https://github.com/Luis729/poe-unique-checker#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.24.0",
+    "electron": "^8.2.3",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-typescript": "^7.2.1",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-react": "^7.19.0",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {}
+}
